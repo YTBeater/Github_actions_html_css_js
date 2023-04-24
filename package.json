@@ -1,0 +1,15 @@
+{
+  "name": "github_actions_html_css_js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testMatch": [
+      "<rootDir>/tests/**/*.test.js"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^ 29.5.0"
+  }
+}
