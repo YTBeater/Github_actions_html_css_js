@@ -1,4 +1,5 @@
-const add = require('../app');
+import { add } from '../app.js';
+
 
 describe('Test de la fonction add', () => {
   test('doit retourner 3 si on passe 1 et 2 en paramètres', () => {
